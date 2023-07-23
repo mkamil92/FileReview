@@ -1,4 +1,3 @@
-# FileReview
 # Hi there , It's Mohammad Kmail
 As a software developer, my commitment lies in keeping myself abreast of the most recent technologies and tools. I continuously embrace a learning and explorative approach, seeking optimal solutions for my clients and users. I firmly believe that adaptability and a readiness to embrace fresh challenges are pivotal factors for success in this ever-evolving field
 <hr>
